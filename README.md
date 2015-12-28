@@ -13,3 +13,7 @@ Python Tool - add watermarks logo or text to single or multiple images/photos vi
 # Result
 ![Result](https://cloud.githubusercontent.com/assets/980844/12012568/d1c90d22-acfb-11e5-8bda-ef83d24feaac.PNG)
 
+# TODO
+> - Add text watermark
+> - Add opacity parameters
+
