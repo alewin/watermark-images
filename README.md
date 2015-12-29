@@ -17,3 +17,7 @@ Python Tool - add watermarks logo or text to single or multiple images/photos vi
 > - Add text watermark
 > - Add opacity parameters
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alewin/watermark-images/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
